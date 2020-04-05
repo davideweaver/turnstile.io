@@ -1,5 +1,5 @@
 ## Running locally
-Jekyl requires `ruby` v2.4+ and recommends using `bundler`
+Jekyl requires `ruby` v2.4+
 ```
 ruby -v
 ```
@@ -12,5 +12,5 @@ Make sure ruby gems for 2.6 are in your PATH
 export PATH=$HOME/.gem/ruby/2.6.0/bin:$PATH
 ```
 ```
-bundle exec jekyll serve
+jekyll serve
 ```
